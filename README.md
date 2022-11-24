@@ -8,13 +8,13 @@ meus materiais
         <h1>MATERIAL ESCOLAR</h1> 
 
 <p><stong>Materiais</stong></p>
-cadernos;
-régua;
-lápis;
-caneta esferográfica;
-lapiseira; 
-estojo;
-tubo de cola;
-caixa de lápis de cor;
-papel sulfite; 
-mochila.
+<p>cadernos;</p>
+<p>régua;</p>
+<p>lápis;</p>
+<p>caneta esferográfica;</p>
+<p>lapiseira; </p>
+<p>estojo;</p>
+<p>tubo de cola;</p>
+<p>caixa de lápis de cor;</p>
+<p>papel sulfite; </p>
+<p>mochila.</p>
